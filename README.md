@@ -11,6 +11,10 @@ Terminology
 
 **Content-based recommendations** are based on item metadata. Given the content I’ve seen (and clicked through), content-based recommenders suggest content of similar topic, location, sources, etc. Relative to collaboration-based recommenders, content-based recommenders tend to be more effective when the content is new and we don’t have enough user behavioral data about it yet (i.e., cold-start problem)
 
+**Few words about ranking** 
+
+Ranking can be framed as either a classification or learning to rank problem. As a classification problem, we can score candidates based on probability of click or purchase. Logistic regression with crossed features is simple to implement and a difficult baseline to beat. Decision trees are also commonly used. As a learning to rank problem, commonly used algorithms include XGBoost and LightGBM. 
+
 Project Lifecycle challenges and tentative escapes
 ------------------
 Browse the repo folders to find more about the challenges
