@@ -1,7 +1,7 @@
 RecSys
 ==============================
 
-Tooling for recsys implementtation
+Tooling for recommender systems implementation
 
 Project Organization
 ------------
