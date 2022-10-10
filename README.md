@@ -15,7 +15,7 @@ Terminology
 
 Ranking can be framed as either a classification or learning to rank problem. As a classification problem, we can score candidates based on probability of click or purchase. Logistic regression with crossed features is simple to implement and a difficult baseline to beat. Decision trees are also commonly used. As a learning to rank problem, commonly used algorithms include XGBoost and LightGBM. 
 
-Project Lifecycle challenges and tentative escapes
+Project Lifecycle challenges and opportunities
 ------------------
 Browse the repo folders to find more about the challenges
 
@@ -23,8 +23,9 @@ Browse the repo folders to find more about the challenges
 3. Experimentation management
 4. Model validation
 5. Heuristics rules
-6. Real-time Inference 
-7. Online training
+6. Model card
+7. Real-time Inference 
+8. Online training
 
 Awesome tools and resources
 -----------------
