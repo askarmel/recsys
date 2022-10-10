@@ -43,6 +43,7 @@ Awesome tools and resources
 - [LightFM paper](http://arxiv.org/abs/1507.08439)
 - [Wide & Deep paper](https://arxiv.org/abs/1606.07792)
 - [Large Scale ALS in Netflix](https://link.springer.com/chapter/10.1007/978-3-540-68880-8_32)
+- [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/abs/1905.06874)
 
 ### Blog posts
 - [Eugene Yan website](https://eugeneyan.com/): Amazing resources on practical recommender system implementation at scale
