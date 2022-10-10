@@ -45,10 +45,13 @@ Awesome tools and resources
 - [Large Scale ALS in Netflix](https://link.springer.com/chapter/10.1007/978-3-540-68880-8_32)
 - [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/abs/1905.06874)
 - [TencentRec: Real-time Stream Recommendation in Practice](https://dl.acm.org/doi/10.1145/2723372.2742785) - lots of practical tips, highly recommended
+- [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/10.1145/2959100.2959190)
+
 
 ### Blog posts
 - [Eugene Yan website](https://eugeneyan.com/): Amazing resources on practical recommender system implementation at scale
 - [Wide & Deep docs from Google](https://ai.googleblog.com/2016/06/wide-deep-learning-better-together-with.html)
+- [Instagram's recommendation engine](https://ai.facebook.com/blog/powered-by-ai-instagrams-explore-recommender-system/)
 
 Project Organization
 ------------
