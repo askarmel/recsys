@@ -46,6 +46,7 @@ Awesome tools and resources
 - [Behavior Sequence Transformer for E-commerce Recommendation in Alibaba](https://arxiv.org/abs/1905.06874)
 - [TencentRec: Real-time Stream Recommendation in Practice](https://dl.acm.org/doi/10.1145/2723372.2742785) - lots of practical tips, highly recommended
 - [Deep Neural Networks for YouTube Recommendations](https://dl.acm.org/doi/10.1145/2959100.2959190)
+- [Using Navigation to Improve Recommendations in Real-Time](https://dl.acm.org/doi/10.1145/2959100.2959174) - how Netflix rerank recommendations in real time
 
 
 ### Blog posts
