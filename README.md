@@ -3,6 +3,13 @@ RecSys
 
 Tooling for recommender systems implementation
 
+
+# Terminology
+
+**Collaboration-based recommendations** are based on user behavior. Assume I like content X and dislike content Y. To recommend content to me, we first find users similar to me (i.e., like X, dislike Y). Then, from those users, what are content they liked, but I’ve not seen? Those content are then recommended to me. With user behavioral data, users can (passively) “collaborate” to create recommendations for each other. Collaborative filtering is probably the most well-known approach.
+
+**Content-based recommendations** are based on item metadata. Given the content I’ve seen (and clicked through), content-based recommenders suggest content of similar topic, location, sources, etc. Relative to collaboration-based recommenders, content-based recommenders tend to be more effective when the content is new and we don’t have enough user behavioral data about it yet (i.e., cold-start problem)
+
 Project Organization
 ------------
 
