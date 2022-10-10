@@ -15,7 +15,7 @@ Terminology
 
 Ranking can be framed as either a classification or learning to rank problem. As a classification problem, we can score candidates based on probability of click or purchase. Logistic regression with crossed features is simple to implement and a difficult baseline to beat. Decision trees are also commonly used. As a learning to rank problem, commonly used algorithms include XGBoost and LightGBM. 
 
-** Profile building and post processing**
+**Profile building and post processing**
 To implement recommender system end to end, additional elements come into the picture: profiling (building user preferences) and post-processing (e.g., excluding previously purchased goods, item-deduplication across recommendation sets).
 
 
