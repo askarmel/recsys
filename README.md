@@ -32,6 +32,8 @@ Browse the repo folders to find more about the challenges
 6. Model card
 7. Real-time Inference 
 8. Online training
+9. Sequential recommendation
+10. NLP and Transformer based approach for product content
 
 Awesome tools and resources
 -----------------
